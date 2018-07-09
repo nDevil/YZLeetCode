@@ -1,2 +1,2 @@
-# YZLeetCode
-LeetCode Solution
+# YZLeetCodeSwfit
+LeetCode Solutions in Swift
